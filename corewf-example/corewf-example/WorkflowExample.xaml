@@ -1,0 +1,8 @@
+﻿<Activity 
+ x:Class="corewf-example.WorkflowExample"
+ xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Sequence>
+        <WriteLine Text="Hello World!" />
+    </Sequence>
+</Activity>
